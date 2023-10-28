@@ -6,6 +6,6 @@ body {
 }
 
 .titulo {
-    align-items: center;
-    font-size: 25px;
+    border-left: 30px;
+    font-size: 40;
 }
