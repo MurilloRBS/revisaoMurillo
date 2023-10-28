@@ -8,10 +8,11 @@ body {
 .titulo {
     text-align: center;
     font-size: 40px;
+    color: black;
 }
 
 .subtitulo{
-    text-align: justify;
+    text-align: center;
     font-size: 35px;
 }
 
