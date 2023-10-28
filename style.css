@@ -4,3 +4,8 @@ body {
     font-size: 18px;
     color: aliceblue;
 }
+
+.titulo {
+    align-items: center;
+    font-size: 25px;
+}
