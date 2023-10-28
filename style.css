@@ -39,7 +39,7 @@ body {
 }
 
 #box_geral{
-    width:300px; 
+    width:700px; 
     margin:0 auto; 
     display:block; 
     border-radius:3px;
@@ -52,9 +52,7 @@ body {
     display:block; 
     cursor:pointer; 
     font-size:16px; 
-    text-align:center;
-    background:#FFFF00; 
-    color:#000; 
+    text-align:center;  
     margin: 5px 0; 
     padding:5px; 
     border-radius:3px;
