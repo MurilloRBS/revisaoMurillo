@@ -17,5 +17,14 @@ body {
     font-size: 35px;
     color: gainsboro;
     margin: 4em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+.lista {
+    text-align: center;
+    margin-bottom: 1em;
+    margin: 2em;
+    margin-top: 1em;
 }
 
