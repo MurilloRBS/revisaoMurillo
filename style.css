@@ -14,5 +14,7 @@ body {
 .subtitulo{
     text-align: center;
     font-size: 35px;
+    color: gray;
+    margin: 4em;
 }
 
