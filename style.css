@@ -6,6 +6,12 @@ body {
 }
 
 .titulo {
-    margin-left: 12em;
-    font-size: 40;
+    text-align: center;
+    font-size: 40px;
 }
+
+.subtitulo{
+    text-align: justify;
+    font-size: 35px;
+}
+
