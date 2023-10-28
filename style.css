@@ -1,21 +1,21 @@
 body {
-    background-color: #519ff8;
+    background-color: white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 18px;
-    color: aliceblue;
+    color: black;
 }
 
 .titulo {
     text-align: center;
     font-size: 40px;
-    color: black;
+    color: green;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .subtitulo{
     text-align: center;
     font-size: 35px;
-    color: gainsboro;
+    color: greenyellow;
     margin: 4em;
     margin-bottom: 2em;
     margin-top: 2em;
@@ -26,5 +26,6 @@ body {
     margin-bottom: 1em;
     margin: 2em;
     margin-top: 1em;
+    font-size: 25px;
 }
 
