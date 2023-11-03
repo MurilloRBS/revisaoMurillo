@@ -9,9 +9,15 @@ body {
     }
 
     .titulo {
-        font-size: 35px;
+        font-size: 40px;
         color: red;
         text-align: center;
+    }
+
+    .subtitulo {
+        font-size: 30px;
+        color: rgba(255, 0, 0, 0.568);
+        text-align: justify;
     }
 
 
