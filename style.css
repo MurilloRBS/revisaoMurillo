@@ -20,6 +20,14 @@ body {
         text-align: justify;
     }
 
+#box_geral {
+    width:1000px; 
+    margin:0 auto; 
+    display:block; 
+    border-radius:3px;
+     margin-top:20px; 
+     padding:10px;
+}
 
 #box_geral span{
     display:block; 
