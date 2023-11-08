@@ -15,13 +15,13 @@ body {
 
     .titulo {
         font-size: 40px;
-        color: rgb(223, 194, 29)(255, 217, 0, 0.614);
+        color: goldenrod;
         text-align: center;
     }
 
     .subtitulo {
         font-size: 30px;
-        color: yellow;
+        color: rgb(184, 184, 76);
         text-align: justify;
     }
 
