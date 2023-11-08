@@ -52,3 +52,9 @@ body {
    height: 12em;
    margin-right: 1em;
 }
+
+iframe {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
