@@ -48,7 +48,7 @@ body {
 }
 
 .imagem {
-    width: 500px;
+    width: 400px;
     height: 300px;
-    align-items: flex-end;
+    margin: 50%;
 }
