@@ -48,7 +48,5 @@ body {
 }
 
 .imagem {
-    width: 50%;
-   margin: auto;
-   display: block;
-}
+   width: 10px;
+   height: 20px;
