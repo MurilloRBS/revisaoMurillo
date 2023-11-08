@@ -17,13 +17,14 @@ body {
         font-size: 40px;
         color: goldenrod;
         text-align: center;
+        background-color: black;
     }
 
     .subtitulo {
         font-size: 30px;
         color: orange;
         text-align: justify;
-        background-color: black;
+
     }
 
 #box_geral {
