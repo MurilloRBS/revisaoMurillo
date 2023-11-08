@@ -51,10 +51,12 @@ body {
    width: 16em;
    height: 12em;
    margin-right: 1em;
+   align-items: center;
 }
 
 iframe {
     display: block;
     margin: auto;
     width: 50%;
+    margin-bottom: 2em;
 }
