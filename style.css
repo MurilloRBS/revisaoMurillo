@@ -21,7 +21,6 @@ body {
         font-size: 30px;
         color: orange;
         text-align: justify;
-        background-color: white;
     }
 
 #box_geral {
@@ -31,7 +30,6 @@ body {
     border-radius:3px;
      margin-top:20px; 
      padding:10px;
-     background-color: white;
 }
 
 #box_geral span{
@@ -66,4 +64,8 @@ iframe {
 
 .final{
     background-color: goldenrod;
+}
+
+.tudo {
+    background-color: white;
 }
