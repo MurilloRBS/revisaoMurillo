@@ -7,10 +7,7 @@ body {
      margin-top:20px; 
      padding:10px;
      font-size: 27px;
-    }
-
-    .parteum {
-        background: ;
+     background-color: goldenrod;
     }
 
     .titulo {
@@ -34,7 +31,6 @@ body {
     border-radius:3px;
      margin-top:20px; 
      padding:10px;
-     background-color: goldenrod;
 }
 
 #box_geral span{
